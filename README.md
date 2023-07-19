@@ -35,14 +35,14 @@ Data is fabricated for this project.
 Customer data: [customers.csv.zip](https://github.com/shannonpulinat/Instacart_Analysis/files/12098861/customers.csv.zip)
 
 
-## Tools
+## Tools:
 Language: Python
 
 Libraries: Pandas, Numpy, Seaborn, Matplotlib, and Scipy
 
 Software: Jupyter Notebooks and Excel
 
-## Skills Demonstrated
+## Skills Demonstrated:
 ● Cleaning data
 
 ● Merging data
@@ -54,3 +54,8 @@ Software: Jupyter Notebooks and Excel
 ● Visualizing data
 
 ● Reporting results
+
+## Result Report: 
+[Final_report.xlsx.zip](https://github.com/shannonpulinat/Instacart_Analysis/files/12098938/Final_report.xlsx.zip)
+
+
